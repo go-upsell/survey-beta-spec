@@ -190,7 +190,7 @@ This application will be developed in **React Native**.
 
 #### Component
 
-Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase]
+Please use [NativeBase](https://github.com/GeekyAnts/NativeBase)
 
 ### Select1 (unique choice)
 
@@ -242,7 +242,7 @@ Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase]
 
 #### Component
 
-Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase]
+Please use [NativeBase](https://github.com/GeekyAnts/NativeBase)
 
 ### Select (multiple choices)
 
@@ -294,7 +294,7 @@ Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase]
 
 #### Component
 
-Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase]
+Please use [NativeBase](https://github.com/GeekyAnts/NativeBase)
 
 ### Integer
 
@@ -331,7 +331,7 @@ Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase]
 
 #### Component
 
-Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase]
+Please use [NativeBase](https://github.com/GeekyAnts/NativeBase)
 
 ### Float
 
@@ -368,7 +368,7 @@ Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase]
 
 #### Component
 
-Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase]
+Please use [NativeBase](https://github.com/GeekyAnts/NativeBase)
 
 ### Date
 
@@ -405,7 +405,7 @@ Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase]
 
 #### Component
 
-Please use [React Native DatePicker](https://github.com/xgfe/react-native-datepicker)
+Please use (React Native DatePicker)[https://github.com/xgfe/react-native-datepicker]
 
 ### Time
 
@@ -442,7 +442,7 @@ Please use [React Native DatePicker](https://github.com/xgfe/react-native-datepi
 
 #### Component
 
-Please use [React Native DatePicker](https://github.com/xgfe/react-native-datepicker)
+Please use (React Native DatePicker)[https://github.com/xgfe/react-native-datepicker]
 
 ### Date and time
 
@@ -479,7 +479,7 @@ Please use [React Native DatePicker](https://github.com/xgfe/react-native-datepi
 
 #### Component
 
-Please use [React Native DatePicker](https://github.com/xgfe/react-native-datepicker)
+Please use (React Native DatePicker)[https://github.com/xgfe/react-native-datepicker]
 
 ### Photo
 
@@ -518,7 +518,7 @@ Please use [React Native DatePicker](https://github.com/xgfe/react-native-datepi
 
 #### Component
 
-Please use [React Native Camera](https://github.com/lwansbrough/react-native-camera)
+Please use (React Native Camera)[https://github.com/lwansbrough/react-native-camera]
 
 ### Video
 
@@ -551,7 +551,7 @@ Please use [React Native Camera](https://github.com/lwansbrough/react-native-cam
 
 #### Component
 
-Please use [React Native Camera](https://github.com/lwansbrough/react-native-camera)
+Please use (React Native Camera)[https://github.com/lwansbrough/react-native-camera]
 
 ### Audio
 
@@ -615,7 +615,7 @@ Please use [React Native Camera](https://github.com/lwansbrough/react-native-cam
 
 #### Component
 
-Please use [React Native Camera](https://github.com/lwansbrough/react-native-camera)
+Please use (React Native Camera)[https://github.com/lwansbrough/react-native-camera]
 
 ### Matrix
 
@@ -693,7 +693,7 @@ Please use [React Native Camera](https://github.com/lwansbrough/react-native-cam
 
 #### Component
 
-Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase] for the grid and radio buttons
+Please use [NativeBase](https://github.com/GeekyAnts/NativeBase) for the grid and radio buttons
 
 ## Conditions
 
@@ -723,7 +723,7 @@ Please use (NativeBase)[https://github.com/GeekyAnts/NativeBase] for the grid an
       "questionId": "1",
       "condition": {
         "operator": "<",
-        "value": [8954562] // en nombre de jours > voir momentjs ?
+        "value": [8954562]
       },
       "context": {}
     }
